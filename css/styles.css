@@ -52,3 +52,13 @@ header a:hover {
     width: 960px;
   }
 }
+
+@media screen and (min-width: 401px) {
+  header div:first-child {
+    margin-left: 15%;
+  }
+
+  .section {
+    margin-left: 10%;
+  }
+}
