@@ -62,3 +62,17 @@ header a:hover {
     margin-left: 10%;
   }
 }
+
+@media screen and (max-width: 400px) {
+  .container {
+    margin-left: 20px;
+  }
+
+  .section div {
+    flex: 1 !important;
+  }
+
+  .section div ul {
+    padding: 0;
+  }
+}
