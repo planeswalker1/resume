@@ -45,3 +45,10 @@ header a:hover {
 .section div:nth-of-type(2) {
   flex-grow: 10;
 }
+
+@media screen and (min-width: 960px) {
+  .container {
+    margin: 0 auto;
+    width: 960px;
+  }
+}
