@@ -1,6 +1,6 @@
 # _resume_
 
-#### _My resume, 10.28.2017_
+#### _My resume, 08.25.2018_
 
 #### By _**planeswalker1**_
 
